@@ -17,3 +17,7 @@ Microsoft SQL Server and Java Runtime Environment are prerequisites for the mach
 ## Demo
 https://github.com/ThomasPappas00/Patras-Uni-Bus/assets/75483971/d135a43a-016f-4071-a7ae-d4d3cb22fa86
 
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
+
